@@ -3,6 +3,6 @@ bbbbbbbbbbbbbb
 ccccccccdddddd
 
 
-
+ブランチによる変更箇所
 
 kooooooooooooooooosinc
